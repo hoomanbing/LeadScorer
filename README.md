@@ -5,7 +5,7 @@ Lead Generator and AI lead Predictor for B2B
 
 ## Lead Generation
 ![Screenshot 2025-05-24 101842](https://github.com/user-attachments/assets/595ded62-1ab1-4e6a-84da-76937766e4f7)
-
+## Leads View
 ![Screenshot 2025-05-24 101910](https://github.com/user-attachments/assets/309a9fce-ac02-4373-914a-2eb063b23f49)
 
 Profile demo: View Details
